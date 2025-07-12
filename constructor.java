@@ -1,9 +1,10 @@
- public class main{
+
+  public class main{
      
           int marks;
           String name;
       
-      Student(){
+      main(){
           System.out.println("Heyyy");
       }
       public static void main(String[] args){
